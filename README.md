@@ -180,20 +180,20 @@ Simple and relax with play area.
 ```
 
 ## Output:
-![Output](./screenshots/out1.png)
+![Output](./screenshots/out 1.png)
 
-![Output](./screenshots/out2.png)
+![Output](./screenshots/out 2.png)
 
-![Output](./screenshots/out3.png)
+![Output](./screenshots/out 3.png)
 
-![Output](./screenshots/out4.png)
+![Output](./screenshots/out 4.png)
 
-![Output](./screenshots/out5.png)
+![Output](./screenshots/out 5.png)
 
-![Output](./screenshots/out6.png)
+![Output](./screenshots/out 6.png)
 
 ## HTML Validator:
-![HTML Validator](./screenshots/valid.png)
+![HTML Validator](./screenshots/Valid.png)
 
 ## Result:
 The program for implementing image map is executed successfully
