@@ -180,7 +180,7 @@ Simple and relax with play area.
 ```
 
 ## Output:
-![Output](./screenshots/out1.png)
+![Output](Sudharsanram/NearMe/blob/main/screenshots/out1.png)
 
 ![Output](./screenshots/out2.png)
 
